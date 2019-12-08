@@ -1,4 +1,4 @@
-import data from './data';
+const data = require('./data')
 
 const newData = data.features;
 
@@ -33,4 +33,4 @@ const districtsObject = {
   "districts": instance.allDistricts
 }
 
-export default districtsObject;
+module.exports = { districtsObject };

@@ -1,6 +1,6 @@
 {
   "name": "ugdistrictserve",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "This package will return on object with districts in Uganda",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/billkabanga/ugdistrictserve/issues"
   },
   "homepage": "https://github.com/billkabanga/ugdistrictserve#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
     "@babel/node": "^7.7.4",
